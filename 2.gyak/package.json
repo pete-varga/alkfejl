@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "jimp": "^0.2.27",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "nedb-promise": "^2.0.0"
   }
 }
